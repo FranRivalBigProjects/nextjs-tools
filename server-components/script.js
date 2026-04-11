@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Server comps: '+(code.value.match(/server/g)||[]).length;}

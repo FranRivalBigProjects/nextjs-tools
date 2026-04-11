@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='SSG: '+(code.value.match(/getStaticProps/g)||[]).length;}

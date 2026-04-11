@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Images: '+(code.value.match(/Image/g)||[]).length;}

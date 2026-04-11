@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Cache hits: '+(code.value.match(/cache/g)||[]).length;}

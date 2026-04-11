@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Handlers: '+(code.value.match(/req/g)||[]).length;}

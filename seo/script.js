@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Meta tags: '+(code.value.match(/meta/g)||[]).length;}
